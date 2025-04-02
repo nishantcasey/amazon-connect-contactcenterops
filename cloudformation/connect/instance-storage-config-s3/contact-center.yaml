@@ -51,7 +51,7 @@ Resources:
             Minutes: 30
         - Day: TUESDAY
           EndTime:
-            Hours: 19
+            Hours: 20
             Minutes: 0
           StartTime:
             Hours: 9
