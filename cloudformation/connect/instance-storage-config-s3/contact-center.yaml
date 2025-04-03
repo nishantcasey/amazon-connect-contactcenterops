@@ -44,7 +44,7 @@ Resources:
       Config:
         - Day: MONDAY
           EndTime:
-            Hours: 21
+            Hours: 12
             Minutes: 0
           StartTime:
             Hours: 9
